@@ -15,10 +15,6 @@ abstract public class Plane {
         this.maxLoadCapacity = maxLoadCapacity;
     }
 
-    public String getModel() {
-        return model;
-    }
-
     public int getMS() {
         return maxSpeed;
     }
